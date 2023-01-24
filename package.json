@@ -1,0 +1,19 @@
+{
+  "name": "psd-to-jpg-quickaction",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainierraydan/psd-to-jpg-quickAction.git"
+  },
+  "author": "Rainier Raydan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainierraydan/psd-to-jpg-quickAction/issues"
+  },
+  "homepage": "https://github.com/rainierraydan/psd-to-jpg-quickAction#readme"
+}
